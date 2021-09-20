@@ -1,5 +1,8 @@
 from random import randrange
 
+
+#Declaração de variavel
+
 numero = randrange(1,10)
 print("Escolhi um numero de 1 a 10 tente advinhar")
 tentativa = int(input("Qual numero você escolhe? "))
